@@ -1,6 +1,6 @@
 COMMANDS
 
 - Get-AzSubscription
-- Get-AzTenan
+- Get-AzTenant
 
 ENTRA: Is the cloud native service of handling users, groups and genersl identities.
